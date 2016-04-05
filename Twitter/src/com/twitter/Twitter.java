@@ -3,6 +3,12 @@ package com.twitter;
 import java.util.LinkedList;
 import com.twitter.poruke.TwitterPoruka;
 
+/**
+ * Klasa koja obuhvata metode za manipulaciju porukama na Twitter-u (unos, pretrazivanje...)
+ * @author Ilija Pavlovic
+ * @version 1.0
+ */
+
 public class Twitter {
 	/**
 	 * Lista poruka koje se salju putem Twittera
